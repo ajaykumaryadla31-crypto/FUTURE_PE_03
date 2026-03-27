@@ -1,0 +1,21 @@
+🔥 High-Intent, Clickable Blog Titles
+	1.	How Much Protein Do You Need for Muscle Gain? (Simple Beginner Guide)
+👉 Intent: Informational
+	2.	Best Protein Powder for Beginners in India (2026 Buying Guide)
+👉 Intent: Transactional
+	3.	Protein for Muscle Gain: Complete Beginner’s Guide (Diet + Supplements)
+👉 Intent: Informational
+	4.	Top 10 High-Protein Foods for Muscle Gain (Budget-Friendly List)
+👉 Intent: Informational
+	5.	When to Take Protein for Muscle Gain: Pre or Post Workout?
+👉 Intent: Informational
+	6.	Why You’re Not Gaining Muscle: 7 Protein Mistakes Beginners Make
+👉 Intent: Problem-solving
+	7.	Whey Protein vs Plant Protein: Which Is Better for Muscle Gain?
+👉 Intent: Comparison
+	8.	Is Protein Powder Safe for Beginners? Myths vs Facts Explained
+👉 Intent: Informational
+	9.	Best Diet Plan for Muscle Gain: Protein Guide for Beginners
+👉 Intent: Informational
+	10.	Skinny to Muscular: Protein Strategy for Fast Muscle Gain
+👉 Intent: Transformational / Informational
