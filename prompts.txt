@@ -1,0 +1,55 @@
+PROMPT-1
+Act as an SEO expert.
+
+Generate 15 SEO keywords for the topic "protein for muscle gain".
+
+Include:
+- Short-tail keywords
+- Long-tail keywords
+- Search intent (informational, transactional)
+
+Make it beginner-friendly.
+PROMPT-2
+Generate 10 SEO-optimized blog topic ideas for a fitness website focused on protein and muscle gain.
+
+Ensure:
+- High search intent
+- Beginner-friendly topics
+- Clickable titles
+PROMPT-3
+Create a detailed SEO blog outline for the topic:
+
+"Best Protein for Beginners"
+
+Include:
+- H1
+- H2
+- H3
+- FAQs section
+- Keyword placement suggestions
+
+Make it SEO optimized and structured.
+PROMPT-4
+Write a complete SEO-optimized blog post on:
+
+"Best Protein for Beginners"
+
+Include:
+- Engaging introduction
+- Structured headings (H1, H2, H3)
+- Simple explanation
+- SEO keywords naturally
+- Conclusion + CTA
+
+Tone: beginner-friendly and helpful
+PROMPT-5
+Create a content cluster strategy for a fitness website.
+
+Main topic: Protein for muscle gain
+
+Include:
+- Pillar page topic
+- 5 supporting blog topics
+- Internal linking structure
+
+Explain how they connect.
